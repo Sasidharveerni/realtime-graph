@@ -23,7 +23,7 @@ export const App = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/api/revenue-data?year=${selectedYear}`);
+        const response = await fetch(`https://realtime-graph.vercel.app/api/revenue-data?year=${selectedYear}`);
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
