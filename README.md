@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#visual Studio code glimpse image
+
+![image](https://github.com/Sasidharveerni/realtime-graph/assets/81133052/aa6d70a7-abfe-4c2f-aa5f-5006aa0ced76)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
